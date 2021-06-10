@@ -1,3 +1,7 @@
 // Server.cpp
 
-class Server{};
+class Server{
+ public:
+  Server() {}
+  ~Server() {}
+};
