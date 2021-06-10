@@ -1,1 +1,3 @@
 // Config.cpp
+
+class Config {};
