@@ -1,1 +1,3 @@
 // Socket.cpp
+
+class Socket {};
