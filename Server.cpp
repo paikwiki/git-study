@@ -1,1 +1,3 @@
 // Server.cpp
+
+class Server{};
